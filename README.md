@@ -1,1 +1,2 @@
-# Emby 公益服
+# Emby rules
+
